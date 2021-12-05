@@ -12,7 +12,7 @@ A set of widgets created to deepen my knowledge in React.
 	
 ## Technologies
 Project is created with:
-* Material-UI v4
+* Bootstrap 5.1
 * React ^17
 
 ## API
