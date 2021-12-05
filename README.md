@@ -22,11 +22,11 @@ Project is created with:
 ## Setup
 To run this project, open the file location in the terminal and run npm start.
 
-![demo](/demo/cocktails.gif)
+![demo](/demo/widgets.gif)
 
 ## Status
 Project is:  _finished
 
 ## Live Demo
 
-https://razvan-cocktails.herokuapp.com/
+https://razvan-widgets.herokuapp.com/
