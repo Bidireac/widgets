@@ -3,7 +3,6 @@ import { Switch, Route } from 'react-router-dom';
 import Accordion from './components/Accordion';
 import Wikipedia from './components/Wikipedia';
 import Navigation from './components/Navigation';
-import VideoList from './components/Youtube';
 import Youtube from './components/Youtube';
 
 const items = [

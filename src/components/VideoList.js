@@ -14,7 +14,7 @@ const VideoList = ({ videos, onVideoSelect }) => {
           className="card-img-top"
           src={video.snippet.thumbnails.medium.url}
         />
-        <div class="card-footer">
+        <div className="card-footer">
           <h5 className="card-title">{video.snippet.title}</h5>
         </div>
       </div>
