@@ -6,7 +6,7 @@ import useVideos from '../hooks/useVideos';
 
 const Youtube = () => {
   const [selectedVideo, setSelectedVideo] = useState(null);
-  const [videos, search] = useVideos('traversy');
+  const [videos, search] = useVideos('javascript');
 
   useEffect(() => {
     setSelectedVideo(videos[0]);
